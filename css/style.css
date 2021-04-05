@@ -1,0 +1,18 @@
+.jumbotron {
+  text-align: center;
+}
+.card{
+  text-align: center;
+}
+#ak-loc {
+  display: none;
+}
+#ak-land {
+  display: none;
+}
+#ak-time {
+  display: none;
+}
+#ak-notes {
+  display: none;
+}
