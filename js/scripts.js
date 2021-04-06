@@ -55,7 +55,7 @@ $(document).ready(function(){
   })
   $("#aktime").click(function(event) {
     $("#ak-time").show(Alaska.time);
-    ("#ak-time").text(Alaska.time);
+    $("#ak-time").text(Alaska.time);
     event.preventDefault();
   })
   $("#aknotes").click(function(event) {
@@ -63,5 +63,4 @@ $(document).ready(function(){
     $("#ak-notes").text(Alaska.notes);
     event.preventDefault();
   })
- 
 });
